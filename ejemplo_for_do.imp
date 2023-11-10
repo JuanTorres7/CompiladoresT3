@@ -1,0 +1,7 @@
+var int a, b;
+a = 5;
+b = 10;
+
+for x : a, b do
+    print(x)
+endfor

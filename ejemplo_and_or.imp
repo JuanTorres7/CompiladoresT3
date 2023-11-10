@@ -1,0 +1,7 @@
+var bool a, b, c;
+
+a = true;
+b = false;
+c = a or b;
+print(c);
+print(a and (b or c and (a and b)))
